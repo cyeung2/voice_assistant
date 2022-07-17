@@ -5,8 +5,10 @@ It process was surprisingly simple and anyone who understands the basics can loo
 
 # Set Up
 To set it up:
-make sure to install Vosk Model, replace the file path.
-Same for the API Key, using tomorrow.io
+<br />
+Make sure to install Vosk Model, replace the file path.
+<br />
+For weather functionality, create an Account on tomorrow.io to get API Key, replace the api key.
 
 # To Use Say
 Voice Commands: Say the following for each functoinality
