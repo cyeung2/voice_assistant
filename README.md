@@ -6,7 +6,7 @@ It process was surprisingly simple and anyone who understands the basics can loo
 # Set Up
 To set it up:
 <br />
-Make sure to install Vosk Model, replace the file path.
+Make sure to install Vosk Model from https://alphacephei.com/vosk/models, replace the file path.
 <br />
 For weather functionality, create an Account on tomorrow.io to get API Key, replace the api key.
 
